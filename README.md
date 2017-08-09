@@ -1,4 +1,18 @@
-# How to install JavaScript Semi-Standard Style package
+# How to install JavaScript Semi-Standard Style and snazzy package
+
+## Why Semi-Standard?
+
+**This module saves you (and others!) time in three ways:**
+
+* **No configuration.** The easiest way to enforce consistent style in your project. Just drop it in.
+* **Automatically format code.** Just run ```standard --fix``` and say goodbye to messy or inconsistent code.
+* **Catch style issues & programmer errors early.** Save precious code review time by eliminating back-and-forth between reviewer & contributor.
+
+
+## Why snazzy?
+**Format JavaScript Standard Style as Stylish output**
+
+# install
 
 1. **Open your Terminal**
 2. **write this line ```sudo su``` to  to enable the super user (root)**
