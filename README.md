@@ -49,4 +49,5 @@
 ##### for more information:<br>
 [`snazzy`](https://github.com/standard/snazzy)<br>
 [`semistandard`](https://github.com/Flet/semistandard)<br>
-[`feross/standard`](https://github.com/standard/standard)
+[`feross/standard`](https://github.com/standard/standard)<br>
+[`semistandard-format`](https://github.com/ricardofbarros/semistandard-format)
