@@ -25,6 +25,10 @@
 
 ![after](/img/after.png)
 
+7. **if you have an error when you run the atom, you should Install the dependencies inside Atom by searching for linter and linter-ui-default, or you can install them with the terminal installer:**<br>
+```apm install linter``` <br>
+```apm install linter-ui-default```
+
 
 
 ## Usage
