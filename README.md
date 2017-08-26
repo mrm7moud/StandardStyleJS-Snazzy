@@ -39,6 +39,11 @@
 
 ![after](/img/after.png)
 
+7. **if you have an error when you run the atom, you should Install the dependencies inside Atom by searching for linter and linter-ui-default, or you can install them with the terminal installer:**<br>
+```apm install linter``` <br>
+```apm install linter-ui-default```<br>
+```npm install -g semistandard-format```
+
 
 
 ## Usage
@@ -58,4 +63,5 @@
 ##### for more information:<br>
 [`snazzy`](https://github.com/standard/snazzy)<br>
 [`semistandard`](https://github.com/Flet/semistandard)<br>
-[`feross/standard`](https://github.com/standard/standard)
+[`feross/standard`](https://github.com/standard/standard)<br>
+[`semistandard-format`](https://github.com/ricardofbarros/semistandard-format)
